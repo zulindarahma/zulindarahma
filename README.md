@@ -9,7 +9,7 @@
 
 
 ## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.telkom.co.id/sites) | Software Quality Assurance | `April 2022 - Now`
+#### 1. [Telkom Indonesia](https://www.telkom.co.id/sites) | Software Quality Assurance | `April 2022 - Now`
    - Create test case documation using squash test management
    - Test on a separate platform of the logee app consisting of 3 websites and 3 mobile apps
    - Testing UI UX, Functional Requirement and API
@@ -43,9 +43,6 @@
   - <b>Technical Skills:</b> Automation and Manual Testing, Software Testing, Regression and smoke Test	
   - <b>Testing Tools:</b> Postman, Charles Proxy, Katalon, GT Matrix, Studio 3T, Squash, Gitlab
   - <b>Languages:</b> Indonesian (Native) and English (Passive)
-
-<br />
-<br />
 
 ---
 ### Connect with me:
