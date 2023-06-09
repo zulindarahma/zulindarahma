@@ -41,7 +41,7 @@
 ---
 
 ### Languages and Tools:
-  - <b>Technical Skills:</b> Automation and Manual Testing, Software Testing, Regression and smoke Test	
+  - <b>Technical Skills:</b> Automation and Manual Testing, Software Testing, Regression and smoke Test, Jira	
   - <b>Testing Tools:</b> Postman, Charles Proxy, Katalon, GT Matrix, Studio 3T, Squash, Gitlab
   - <b>Languages:</b> Indonesian and English (Passive)
 
