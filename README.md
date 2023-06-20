@@ -41,8 +41,8 @@
 ---
 
 ### Languages and Tools:
-  - <b>Technical Skills:</b> Automation and Manual Testing, Software Testing, Regression and smoke Test, Jira	
-  - <b>Testing Tools:</b> Postman, Charles Proxy, Katalon, GT Matrix, Studio 3T, Squash, Gitlab
+  - <b>Technical Skills:</b> Automation and Manual Testing, Software Testing, Regression and smoke Test, Jira (Agile Development)	
+  - <b>Testing Tools:</b> Postman, Charles Proxy(Security), Katalon, GT Matrix, Studio 3T, Squash management, jmeter(performance),Wiremock API
   - <b>Languages:</b> Indonesian and English (Passive)
 
 ---
