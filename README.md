@@ -7,7 +7,7 @@
 
 
 ## Work Experience:
-#### 1. [Logee by Telkom Indonesia](https://www.telkom.co.id/sites) | Software Quality Assurance | `November 2024 - Now`
+#### 1. [Bigbox by Telkom Indonesia](https://www.telkom.co.id/sites) | Software Quality Assurance | `November 2024 - Now`
    - Create test case documation using squash test management
    - Test on a separate platform of BigAssistant consisting of 1 websites about management chat Ai  
    - Testing UI UX, Functional Requirement and API
