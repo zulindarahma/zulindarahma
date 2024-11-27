@@ -9,7 +9,7 @@
 ## Work Experience:
 #### 1. [Logee by Telkom Indonesia](https://www.telkom.co.id/sites) | Software Quality Assurance | `November 2024 - Now`
    - Create test case documation using squash test management
-   - Test on a separate platform of the logee app consisting of 1 websites 
+   - Test on a separate platform of BigAssistant consisting of 1 websites about management chat Ai  
    - Testing UI UX, Functional Requirement and API
    - Integration test with 3rd party
    - Identified, analyzed, and documented defects in websites
