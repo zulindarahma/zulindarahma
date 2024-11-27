@@ -2,14 +2,21 @@
 ## About me:
 - 🔭 I’m currently working at Telkom Indonesia
 - 🌱 I’m currently learning Automation Testing
-- 🤔 I'm looking for a remote quality assurance job
-- 💬 Ask me about anything
 - 📫 How to reach me: zulindarahma@gmail.com
 
 
 
 ## Work Experience:
-#### 1. [Logee by Telkom Indonesia](https://www.telkom.co.id/sites) | Software Quality Assurance | `April 2022 - Now`
+#### 1. [Logee by Telkom Indonesia](https://www.telkom.co.id/sites) | Software Quality Assurance | `November 2024 - Now`
+   - Create test case documation using squash test management
+   - Test on a separate platform of the logee app consisting of 1 websites 
+   - Testing UI UX, Functional Requirement and API
+   - Integration test with 3rd party
+   - Identified, analyzed, and documented defects in websites
+   - Management Ticket Bugs
+   - Create UAT ( User Acceptant Test )
+     
+#### 1. [Logee by Telkom Indonesia](https://www.telkom.co.id/sites) | Software Quality Assurance | `April 2022 - Oktober 2024`
    - Create test case documation using squash test management
    - Test on a separate platform of the logee app consisting of 3 websites and 3 mobile apps
    - Testing UI UX, Functional Requirement and API
